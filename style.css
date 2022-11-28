@@ -1,0 +1,98 @@
+body{
+  background-color: red;
+  background-repeat: no-repeat;
+  padding: 100px;
+  
+  
+}
+
+  p.Salut{
+    font-size: 30px;
+}
+
+  h1.headline{
+  font-size:90px ; 
+}
+
+   p.Bonsoir{
+    font-size: 20px;
+
+}
+
+nav {
+
+
+
+
+  
+
+    
+}
+
+* {
+padding: 0;
+margin: 0;  
+box-sizing: border-box;
+font-family: century;
+  
+}
+
+header {
+
+  background-image: url("./image/https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/WHAT-IS-WEB-DESIGN.jpg?auto=format&q=60&w=1860&h=1090&fit=crop&crop=faces");
+  height: 150vh;
+  background-size: cover;
+  background-position: center;
+}
+
+li {
+
+  list-style: none;
+  text-align: center;
+  display:inline-block;
+  font-size:  14px;
+  
+  
+  
+}
+
+h2 {
+
+  background: #14cbf0;
+}
+
+li {
+
+  font-size: 20px;
+
+  
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+    
+
+
+  
+  
+
+  
+
+
+
+
+
+  
+    
+  
+
+
